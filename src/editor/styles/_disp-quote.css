@@ -8,5 +8,6 @@
 }
 
 .sc-disp-quote .se-attribution {
+  display: block;
   text-align: right;
 }
